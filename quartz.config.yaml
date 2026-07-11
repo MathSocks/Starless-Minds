@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Starless Minds Notes
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -42,7 +42,7 @@ configuration:
         textHighlight: "#b3aa0288"
 plugins:
   - source: github:quartz-community/created-modified-date
-    enabled: true
+    enabled: false
     options:
       defaultDateType: modified
       priority:
@@ -258,6 +258,10 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: github:quartz-community/obsidian-plugin-leaflet
+    enabled: true
+    order: 50
+    options: {}
   - source: github:Requiae/quartz-leaflet-bases-plugin
     enabled: true
     options:
@@ -268,8 +272,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: its-theme
-      variation: ttrpg-dnd
+      theme: its-theme.rainbow
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
