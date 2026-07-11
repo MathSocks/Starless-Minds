@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Starless Minds Notes
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -268,8 +268,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: its-theme
-      variation: ttrpg-dnd
+      theme: its-theme.rainbow
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
