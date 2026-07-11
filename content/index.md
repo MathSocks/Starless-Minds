@@ -1,1 +1,1 @@
-If you see this say the word fish so I know it works
+Tell me the word fish so I know you see this, then go here if you can –> [[Writings]]

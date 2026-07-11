@@ -310,6 +310,8 @@ actions:
 ### Most Recently Modified
 
 - [[0. Quick Notes/TESTPAGE BEEP.md|TESTPAGE BEEP]]
+- [[1. Atlas/Maps/Interactive Westtown Map.md|Interactive Westtown Map]]
+- [[1. Atlas/Writings/Writings.md|Writings]]
 - [[index.md|index]]
 
 ### GitHub Repository Token

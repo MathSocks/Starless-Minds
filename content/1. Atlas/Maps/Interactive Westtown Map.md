@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-07-11T16:08:11.261+10:00
-modified: 2026-07-09T14:33:18.746+10:00
+modified: 2026-07-11T16:30:42.738+10:00
 ---
+
+If you made it here huzzah, tell me the word apple. Finally, tell me if you see a map below or if it is just a code block full of random text
 
 > [!NOTE]- Quick Calculator\
 > Map Height in Pixels: `INPUT[number:map_height_y]`\

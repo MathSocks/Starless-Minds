@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-07-11T16:08:11.331+10:00
-modified: 2026-07-09T14:35:24.754+10:00
+modified: 2026-07-11T16:31:53.178+10:00
 ---
+
+Hello there. Your next word is balloon. Tell me if below is just code blocks or if they show up as tables with ghesh’s books. Then go here –> [[Interactive Westtown Map]]
 
 ### Academic Writings
 
