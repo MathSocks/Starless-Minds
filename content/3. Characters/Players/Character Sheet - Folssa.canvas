@@ -1,0 +1,36 @@
+{
+	"edges":[],
+	"metadata":{
+		"frontmatter":{"dg-publish":true},
+		"version":"1.0-1.0"
+	},
+	"nodes":[
+		{"id":"6dfdec72ff6eea70","type":"file","file":"System/Canvas Baseplates/Weaponry - Folssa.md","zIndex":20,"x":320,"y":-451,"width":914,"height":1130},
+		{"id":"caa923cacb852f89","type":"file","file":"System/Canvas Baseplates/Health Counter - Folssa.md","x":1242,"y":-333,"width":330,"height":349},
+		{
+			"id":"697eea82e2da7231",
+			"type":"text",
+			"text":"Check list:\n- Values (max health, proficiency, speed, armour class, initiative, etc)\n- No. actions and bonus actions\n- Proficiencies\n\n26650 xp",
+			"styleAttributes":{},
+			"zIndex":22,
+			"x":2435,
+			"y":-98,
+			"width":395,
+			"height":353
+		},
+		{"id":"277675a4e3db18f7","type":"file","file":"System/Canvas Baseplates/Traits - Folssa.md","x":-978,"y":-473,"width":680,"height":302},
+		{"id":"68794983f061d7ef","type":"file","file":"System/Canvas Baseplates/Hat/Molar Tooth - Folssa.md","dynamicHeight":false,"x":266,"y":261,"width":130,"height":121},
+		{"id":"5396a1749ff7c6ee","type":"file","file":"System/Canvas Baseplates/Wallet - Folssa.md","x":78,"y":743,"width":470,"height":526},
+		{"id":"5ac84bf5de94c5ab","type":"file","file":"System/Canvas Baseplates/Skills - Folssa.md","x":-454,"y":-516,"width":770,"height":1146},
+		{"id":"ada6e588f524a132","type":"file","file":"System/Canvas Baseplates/Ki Point Counter - Folssa.md","x":1400,"y":149,"width":450,"height":400},
+		{"id":"8f4d88825e532add","type":"file","file":"System/Canvas Baseplates/Hat/Scissors - Folssa.md","x":683,"y":-1304,"width":582,"height":358},
+		{"id":"dcf2955a2a142cff","type":"file","file":"System/Canvas Baseplates/Hat/Moustache - Folssa.md","x":1181,"y":593,"width":433,"height":153},
+		{"id":"d8f36e1d33e56648","type":"file","file":"System/Canvas Baseplates/Hat/Hat - Folssa.md","dynamicHeight":true,"x":-1104,"y":826,"width":1120,"height":1030},
+		{"id":"38d6b23457387f6e","type":"file","file":"System/Canvas Baseplates/Sunnies - Folssa.md","x":-56,"y":-729,"width":700,"height":301},
+		{"id":"8a0a0c0493ad4485","type":"file","file":"System/Canvas Baseplates/Hat/Twine - Folssa.md","x":-896,"y":293,"width":539,"height":502},
+		{"id":"fe66fd35d30601e8","type":"file","file":"System/Canvas Baseplates/Folssa Deathsaves.md","x":1239,"y":-728,"width":440,"height":440},
+		{"id":"f2ab9883d5f555c6","type":"file","file":"System/Canvas Baseplates/Inventory - Folssa.md","x":891,"y":924,"width":550,"height":791},
+		{"id":"b32ffecbc8ec564c","type":"file","file":"System/Canvas Baseplates/Hat/Crag cat tooth - Folssa.md","x":1173,"y":410,"width":191,"height":289},
+		{"id":"b41aaed9e687d24b","type":"file","file":"System/Canvas Baseplates/Hat/Bebo bell - Folssa.md","x":-674,"y":13,"width":175,"height":173}
+	]
+}
