@@ -28,8 +28,8 @@ Determines **where** to get notes _from_.
 You can get all notes _from_ a specified **tag**:
 
 - [[3. Characters/Players/Sean.md|Sean]]
-- [[3. Characters/Players/Ghesh.md|Ghesh]]
 - [[3. Characters/Players/Folssa.md|Folssa]]
+- [[3. Characters/Players/Ghesh.md|Ghesh]]
 - [[3. Characters/Players/Faolan.md|Faolan]]
 - [[3. Characters/Players/Divario.md|Divario]]
 - [[3. Characters/Players/Bud.md|Bud]]
