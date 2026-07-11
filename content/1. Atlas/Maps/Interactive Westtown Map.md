@@ -8,6 +8,8 @@ Status: Complete
 dg-publish: true
 ---
 
+If you made it here huzzah, tell me the word apple. Finally, tell me if you see a map below or if it is just a code block full of random text
+
 > [!NOTE]- Quick Calculator  
 > Map Height in Pixels: `INPUT[number:map_height_y]`  
 > Map Width in Pixels: `INPUT[number:map_width_x]`  
