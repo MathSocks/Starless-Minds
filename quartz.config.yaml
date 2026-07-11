@@ -258,6 +258,10 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: github:quartz-community/obsidian-plugin-leaflet
+    enabled: true
+    order: 50
+    options: {}
   - source: github:Requiae/quartz-leaflet-bases-plugin
     enabled: true
     options:
@@ -276,10 +280,6 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
-  - source: github:quartz-community/obsidian-plugin-leaflet
-    enabled: true
-    order: 50
-    options: {}
 layout:
   groups:
     toolbar:
